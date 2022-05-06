@@ -14,4 +14,4 @@ Bu websitesi dünyadaki en güzide insanlardan birisi olan Zeynep İrem Bayrakl�
 
 Video mesaj için [buraya](https://www.youtube.com/shorts/l32l5iLNutw) tıkla!
 
-Sana özel yazılı mesaj için ise [buraya](https://docs.google.com/document/d/1CsdFGo3547eXwUDDAdsnaka1R3OwrNic/edit?usp=sharing&ouid=113799018728442858408&rtpof=true&sd=true) tıkla!
+Sana özel yazılı mesaj için ise [buraya](https://drive.google.com/file/d/1hIGiXblEzXasE2-R1677p5iGkGm0BION/view?usp=sharing) tıkla!
