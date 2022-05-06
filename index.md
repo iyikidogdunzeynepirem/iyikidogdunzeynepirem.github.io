@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## İyi ki doğdun!
-feature_image: "/pic1.png"
+feature_image: "/pic2.png"
 
 excerpt: "İyi ki doğdun!"
 ---
