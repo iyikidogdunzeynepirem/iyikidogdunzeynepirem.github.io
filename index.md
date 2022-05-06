@@ -1,7 +1,8 @@
 ---
-title: İyi ki doğdun Zeynep İrem!
+title: 
 feature_text: |
   ## İyi ki doğdun!
+feature_image: "/pic1.png"
 
 excerpt: "İyi ki doğdun!"
 ---
